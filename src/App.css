@@ -5,11 +5,11 @@
 }
 
 .wood {
-  background-image: url("/images/wooden\ background.jpg");
+  background-image: url("../public/images/wooden\ background.jpg");
 }
 
 .brick {
-  background-image: url("/images/joe-woods-4Zaq5xY5M_c-unsplash.jpg");
+  background-image: url("../public/images/joe-woods-4Zaq5xY5M_c-unsplash.jpg");
 }
 
 .logo {
@@ -50,7 +50,7 @@
   justify-content: center;
   width: 100%;
   height: 70vh;
-  background-image: url(/images/pieroshki.jpg);
+  background-image: url(../public/images/pieroshki.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -67,7 +67,7 @@
   justify-content: center;
   width: 100%;
   height: 70vh;
-  background-image: url(/images/food\ 2.jpg);
+  background-image: url(../public/images/food\ 2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }

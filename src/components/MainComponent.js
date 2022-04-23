@@ -1,12 +1,15 @@
 import React from 'react';
 import Header from './HeaderComponent';
 import Footer from './FooterComponent';
+import Home from './HomeComponent'
 
-const Main =()=>{
+const Main = () => {
    return(
-      <div>
+      <body className="brick">
       <Header />
-      </div>
+      <Home />
+      <Footer />
+      </body>
 
    )
 }
